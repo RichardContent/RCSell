@@ -1,0 +1,11 @@
+name: RCSell
+version: '${project.version}'
+main: eu.rcdevelopment.rcsell.RCSell
+api-version: '1.20'
+authors: [RCDevelopment / Richard]
+description: The easiest SellGUI
+website: rcdevelopment.eu
+
+commands:
+  sell:
+  worth:
