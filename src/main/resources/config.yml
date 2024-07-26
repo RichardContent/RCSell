@@ -1,7 +1,7 @@
 # All items are from the version 1.20.1
 
 title: "Sell Inventory"
-rows: "6"
+rows: 6
 
 worth: "&#00bfff%amount% %item% &7is worth &a$%price%"
 worth-error: "&cItem does not exist!"
